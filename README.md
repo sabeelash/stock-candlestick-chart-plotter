@@ -1,6 +1,6 @@
 # Candlestick Chart Generator for Stocks
 
-Plots a candlestick chart for a given stock. Allows the user to input start date. Also has the option for saving the plot. Written in python3.
+Plots a candlestick chart for a given stock. Also has the option for saving the plot. Written in python3.
 
 ---
 ## How to use

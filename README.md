@@ -2,7 +2,6 @@
 
 Plots a candlestick chart for a given stock. Also has the option for saving the plot. Written in python3.
 
----
 ## How to use
 
 Insall required dependencies from dependencies.txt first.
